@@ -34,7 +34,7 @@
 
 ### 📈 **GitHub Stats**  
 ![Menase's GitHub Stats](https://github-readme-stats.vercel.app/api?username=menase7&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menase7&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menase7&layout=compact&theme=tokyonight&exclude_repo=cpp_project1,cpp_project2)
 
 ---
 
